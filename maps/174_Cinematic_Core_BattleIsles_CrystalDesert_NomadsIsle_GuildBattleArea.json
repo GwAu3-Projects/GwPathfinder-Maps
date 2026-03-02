@@ -1,0 +1,15 @@
+{
+  "map_ids": [174],
+  "map_name": "NomadsIsle",
+  "continent": 3,
+  "region": 5,
+  "type": 3,
+  "stats": {
+    "trapezoid_count": 762,
+    "point_count": 20291,
+    "teleport_count": 0,
+    "travel_portal_count": 0,
+    "npc_travel_count": 0,
+    "enter_travel_count": 0
+  }
+}

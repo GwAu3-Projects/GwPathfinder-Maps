@@ -1,0 +1,15 @@
+{
+  "map_ids": [172],
+  "map_name": "HuntersIsle",
+  "continent": 3,
+  "region": 0,
+  "type": 3,
+  "stats": {
+    "trapezoid_count": 1697,
+    "point_count": 19641,
+    "teleport_count": 0,
+    "travel_portal_count": 0,
+    "npc_travel_count": 0,
+    "enter_travel_count": 0
+  }
+}

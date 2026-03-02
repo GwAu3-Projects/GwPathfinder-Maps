@@ -1,0 +1,15 @@
+{
+  "map_ids": [170],
+  "map_name": "FrozenIsle",
+  "continent": 3,
+  "region": 3,
+  "type": 3,
+  "stats": {
+    "trapezoid_count": 988,
+    "point_count": 27706,
+    "teleport_count": 0,
+    "travel_portal_count": 0,
+    "npc_travel_count": 0,
+    "enter_travel_count": 0
+  }
+}

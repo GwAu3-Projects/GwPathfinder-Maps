@@ -1,0 +1,15 @@
+{
+  "map_ids": [171],
+  "map_name": "WarriorsIsle",
+  "continent": 3,
+  "region": 0,
+  "type": 3,
+  "stats": {
+    "trapezoid_count": 1383,
+    "point_count": 18720,
+    "teleport_count": 0,
+    "travel_portal_count": 0,
+    "npc_travel_count": 0,
+    "enter_travel_count": 0
+  }
+}
